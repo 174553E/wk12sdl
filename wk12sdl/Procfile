@@ -1,0 +1,1 @@
+web: gunicorn wk12sdl:app
